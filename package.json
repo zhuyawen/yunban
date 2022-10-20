@@ -23,7 +23,7 @@
     "koa-views": "^4.0.0",
     "lodash": "^4.16.1",
     "moment": "^2.15.1",
-    "mongoose": "^4.6.1",
+    "mongoose": "^4.13.21",
     "parcel-bundler": "^1.9.4",
     "pump": "^1.0.1",
     "raw-body": "^2.1.7",
